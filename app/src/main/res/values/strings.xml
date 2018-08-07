@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P12MiniProject</string>
+    <string-array name="websites">
+    <item>Google</item>
+    <item>Republic Poly</item>
+    </string-array>
+
+</resources>
